@@ -1,6 +1,6 @@
 {
   "name": "luau-task",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Luau task library",
   "license": "MIT",
   "author": "jeparlefrancais <jeparlefrancais21@gmail.com>",
